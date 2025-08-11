@@ -9,3 +9,5 @@ plotly
 streamlit
 joblib
 reportlab
+Pillow
+kaleido
